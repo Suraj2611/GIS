@@ -8,9 +8,9 @@ IFMR LEAD SUMMIT - GIS Session
 
 
 
-This GIS module created for the IFMR-LEAD staff meet will touch upon various topics (listed below). 
-
-Please set up everything before the session, by following the steps described in :doc:`'Getting Started' <gettingstarted>`.
+This GIS module created for the IFMR-LEAD staff meet will touch upon the topics listed below. The session will require you to have
+QGIS installed, along with a set of plugins. Please refer to the :doc:`'Installation' <installation>` page for instructions
+regarding the same.
 
 Session Outline
 -----
@@ -19,11 +19,11 @@ Session Outline
 -  Where to find Spatial Data (Online Sources + Digitization)
 - How IFMR has used GIS in the past year – examples (bKash, CDF, etc.)
 - Working with data on GIS (Workshop format - exercise based)
-  -- What kind of maps/ visualizations can be created?
-  -- Converting CMF/CDF/ SEFC project specific datasets to spatial data.
-  -- Classifying data, Styling, Symbology.
-  -- Working with multiple layers
-  -- Preparing a map for a report/ final presentation - Adding legends, scales etc.
+ +  What kind of maps/ visualizations can be created?
+ +  Converting CMF/CDF/ SEFC project specific datasets to spatial data.
+ +  Classifying data, Styling, Symbology.
+ +  Working with multiple layers
+ +  Preparing a map for a report/ final presentation - Adding legends, scales etc.
 - Linking STATA and QGIS.
 
 Contents
@@ -32,7 +32,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-  
+  installation
 
 
    *
