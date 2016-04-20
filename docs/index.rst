@@ -3,11 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-IFMR LEAD SUMMIT===================
+IFMR LEAD SUMMIT
+===================
 
 Contents:
 
 .. toctree::
+   :maxdepth: 2
+
+  
 
 
    *
