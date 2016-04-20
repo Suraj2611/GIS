@@ -9,7 +9,7 @@ IFMR LEAD SUMMIT - GIS Session
 
 
 This GIS module created for the IFMR-LEAD staff meet will touch upon the topics listed below. The session will require you to have
-QGIS installed, along with a set of plugins. Please refer to the :doc:`'Installation' <installation>` page for instructions
+QGIS installed, along with a set of plugins. Please refer to the :doc:`'Installing QGIS' <installation>` page for instructions
 regarding the same.
 
 Session Outline
