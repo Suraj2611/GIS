@@ -8,5 +8,5 @@ Installing QGIS
 
 Required Plugins & Installation
 -------------------------------
-+body { position: relative; text-align: center; z-index: 0; background: #fafafa url(img/QGIS-homescreen.png); })
+.. image:: img/QGIS-homescreen.png
 
