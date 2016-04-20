@@ -8,5 +8,6 @@ Installing QGIS
 
 Required Plugins & Installation
 -------------------------------
+
 .. image:: ../img/QGIS-homescreen.png
 
