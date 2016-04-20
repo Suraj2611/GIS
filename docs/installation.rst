@@ -9,3 +9,5 @@ Installing QGIS
 Required Plugins & Installation
 ============
 
+![Screenshot](img/QGIS-homescreen.png.png)
+
