@@ -1,1 +1,0 @@
-GIS Session - Requirements
