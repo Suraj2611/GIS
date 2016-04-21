@@ -18,10 +18,10 @@ Session Outline
 - Sources of Spatial Data  - and how to work with them. 
 - Workshop/ Exercises
  +  Converting IFMR project specific datasets to spatial formats
- +  Automating tasks in QGIS (Batch Processing) - no coding required. 
  +  Classifying data, Styling, Symbology & heatmaps -> Various kinds of map based outputs that can be produced
  +  Random Sampling of sites & Nearest Neighbor Analysis
- +  Preparing a map for a report/ final presentation - Adding legends, scales etc.
+ +  Automating tasks in QGIS (Batch Processing) - no coding required.
+ +  Preparing a graphic for a report/ final presentation - Adding legends, scales etc.
 - Linking STATA and QGIS
 
 Contents
