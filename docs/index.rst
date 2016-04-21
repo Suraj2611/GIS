@@ -7,8 +7,7 @@ IFMR LEAD SUMMIT - GIS Session
 ===================
 
 
-
-This GIS module created for the IFMR-LEAD staff meet will touch upon the topics listed below. The session will require you to have
+This GIS module created for the IFMR-LEAD staff meet will go through the topics listed below. The session will require you to have
 QGIS installed, along with a set of plugins. Please refer to the  :doc:`'Installing QGIS' <installation>` page for instructions
 regarding the same.
 
@@ -17,12 +16,13 @@ Session Outline
 
 - Recap – Last summit + Follow Up Session
 - Sources of Spatial Data  - and how to work with them. 
-- Working with data on GIS (Workshop format - exercise based)
+- Workshop/ Exercises
  +  Converting IFMR project specific datasets to spatial formats
- +  Classifying data, Styling, Symbology -> Various kinds of map based outputs that can be produced. 
- +  Random Sampling, Nearest Neighbor Analysis
+ +  Automating tasks in QGIS (Batch Processing) - no coding required. 
+ +  Classifying data, Styling, Symbology & heatmaps -> Various kinds of map based outputs that can be produced
+ +  Random Sampling of sites & Nearest Neighbor Analysis
  +  Preparing a map for a report/ final presentation - Adding legends, scales etc.
-- Linking STATA and QGIS.
+- Linking STATA and QGIS
 
 Contents
 --------
