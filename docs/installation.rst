@@ -20,4 +20,18 @@ Required Plugins & Installation
  + Points2One
  + Spatial Query Plugin
  
+==============
+STATA and QGIS
+==============
 
+- In STATA, please install the command `shp2map'
+- If we can manage the time, we'll also look at the 'maptile' and 'spmap' commands. 
+- Install these commands by entering the following code in the STATA command line, and press enter (requires internet)
+
+.. highlight:: STATA
+
+::
+
+	ssc install shp2map
+	ssc install spmap
+	ssc install maptile
