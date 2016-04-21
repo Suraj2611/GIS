@@ -14,7 +14,7 @@ regarding the same.
 Session Outline
 -----
 
-- :doc:`'Recap – Last summit + Follow Up Session' <recap>`
+- :doc:`Recap – Last summit + Follow Up Session <recap>`
 - Sources of Spatial Data  - and how to work with them. 
 - Workshop/ Exercises
  +  Converting IFMR project specific datasets to spatial formats
