@@ -2,6 +2,7 @@
 Installation
 ============
 
+This page lists down all the things you need in place for the session. Please try to do this before the summit, so that we have as much session time as possible
 
 Installing QGIS
 ---------------
