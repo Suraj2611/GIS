@@ -15,14 +15,12 @@ regarding the same.
 Session Outline
 -----
 
-- Recap – Summit + Follow Up Session
--  Where to find Spatial Data (Online Sources + Digitization)
-- How IFMR has used GIS in the past year – examples (bKash, CDF, etc.)
+- Recap – Last summit + Follow Up Session
+- Sources of Spatial Data  - and how to work with them. 
 - Working with data on GIS (Workshop format - exercise based)
- +  What kind of maps/ visualizations can be created?
- +  Converting CMF/CDF/ SEFC project specific datasets to spatial data.
- +  Classifying data, Styling, Symbology.
- +  Working with multiple layers
+ +  Converting CMF/CDF/SEFC project specific datasets to spatial data. 
+ +  Classifying data, Styling, Symbology -> Various kinds of map based outputs that can be produced. 
+ +  Random Sampling, Nearest Neighbor Analysis
  +  Preparing a map for a report/ final presentation - Adding legends, scales etc.
 - Linking STATA and QGIS.
 
