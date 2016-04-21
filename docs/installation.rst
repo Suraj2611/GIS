@@ -9,5 +9,15 @@ Installing QGIS
 Required Plugins & Installation
 -------------------------------
 
+ - Once you have installed QGIS 2.8, click on the plugins option (circled below)-> click on Manage and Install Plugins. (Following bits require internet)
+
 .. image:: ../img/QGIS-homescreen.png
+
+- Search for, and install the following plugins
+ + MMQGIS
+ + Openlayers
+ + Processing
+ + Points2One
+ + Spatial Query Plugin
+ 
 
