@@ -2,7 +2,7 @@
 Resources
 ==========
 
-We'll go through all the basics as much as possible. However,  some really cool resources are available online in case you want to take a quick refresher or get familiar with some of the content we'll be working on. 
+We'll go through all the basics as much as possible. However,  some really cool resources are available online in case you want to take a quick refresher or get familiar with some of the content we'll be working on. The :doc:`Recap <recap>` page contains some of the very basic references used  from the previous sessions as well. 
 
 - `A Gentle Introduction to QGIS <http://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/>`_ : Goes through the basics of GIS in detail, and also introduces important concepts and terms. 
 - `Projections and Coordinate Systems <https://courses.washington.edu/gis250/lessons/projection/#top>`_ : Its always useful to know about projections and coordinate systems, as they form the basis for how a GIS can store, analyze, and display spatial data. This will especially help us while handling spatial data from various (and often random) sources, and allow us to work with them easily. 
