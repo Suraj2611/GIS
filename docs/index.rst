@@ -18,7 +18,7 @@ Session Outline
 - Recap – Last summit + Follow Up Session
 - Sources of Spatial Data  - and how to work with them. 
 - Working with data on GIS (Workshop format - exercise based)
- +  Converting CMF/CDF/SEFC project specific datasets to spatial data. 
+ +  Converting IFMR project specific datasets to spatial formats
  +  Classifying data, Styling, Symbology -> Various kinds of map based outputs that can be produced. 
  +  Random Sampling, Nearest Neighbor Analysis
  +  Preparing a map for a report/ final presentation - Adding legends, scales etc.
