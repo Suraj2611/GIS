@@ -2,7 +2,7 @@
 Installation
 ============
 
-This page lists down all the things you need in place for the session. Please try to do this before the summit, so that we have as much session time as possible
+This page lists the various things you need to have in place for the session. Please try to do this before the summit! :) 
 
 Installing QGIS
 ---------------
@@ -23,6 +23,7 @@ Required Plugins & Installation
  + Processing
  + Points2One
  + Spatial Query Plugin
+ + Heatmap plugin
  
 
 STATA and QGIS
