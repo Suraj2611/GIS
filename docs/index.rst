@@ -22,7 +22,7 @@ Session Outline
  +  Random Sampling of sites & Nearest Neighbor Analysis
  +  Automating tasks in QGIS (Batch Processing) - no coding required.
  +  Preparing a graphic for a report/ final presentation - Adding legends, scales etc.
-- Linking STATA and QGIS
+- Linking STATA and QGIS (Requires stata commands to be installed. Please refer to :doc:`'STATA and QGIS' <stataandqgis>` )
 
 Contents
 --------
