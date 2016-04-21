@@ -32,6 +32,7 @@ Contents
 
   installation
   resources
+  recap
 
 
    *
