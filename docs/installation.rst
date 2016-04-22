@@ -37,6 +37,6 @@ STATA and QGIS
 
 ::
 
-	ssc install shp2map
+	ssc install shp2dta
 	ssc install spmap
 	ssc install maptile
