@@ -29,7 +29,7 @@ Required Plugins & Installation
 STATA and QGIS
 --------------
 
-- In STATA, please install the command `shp2map'
+- In STATA, please install the command `shp2dta'
 - If we can manage the time, we'll also look at the 'maptile' and 'spmap' commands. 
 - Install these commands by entering the following code in the STATA command line, and press enter (requires internet)
 
