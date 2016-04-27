@@ -15,6 +15,7 @@ ______
 - `<http://freegisdata.rtwilson.com/>`_
 
 What about when we have no spatial data available?
+
 - Digitize?
-- Merge/ Join multiple datasets tp get what you need
+- Merge/ Join multiple datasets to get what you need
 
