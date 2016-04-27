@@ -1,6 +1,7 @@
 ========================
 Workshop/ DIY Exercises
-=======================
+========================
+
 
 - Please form groups around your tables. 
 - Each group should have at least 2-3 laptops with QGIS installed
