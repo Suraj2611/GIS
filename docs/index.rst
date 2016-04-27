@@ -33,7 +33,7 @@ Contents
   installation
   resources
   recap
-
+  datasources
 
    *
 
