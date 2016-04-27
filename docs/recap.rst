@@ -17,4 +17,8 @@ Related - Spatial analysis in randomized settings - why is it important?
  
  
  - An interesting paper on this topic can be found `here. <http://ageconsearch.umn.edu/bitstream/205586/2/spatialcorrelation_AAEA.pdf>`_ 
+ - Related Concepts (Source: `GIS Dictionary <http://support.esri.com/en/knowledgebase/GISDictionary/term/Tobler%27s%20First%20Law%20of%20Geography>`_ ) :
+ 
+  + Spatial Autocorrelation: A measure of the degree to which a set of spatial features and their associated data values tend to be clustered together in space (positive spatial autocorrelation) or dispersed (negative spatial autocorrelation).
+  + Tobler's First Law of Geography: A formulation of the concept of spatial autocorrelation by the geographer Waldo Tobler (1930-), which states "Everything is related to everything else, but near things are more related than distant things."
   
