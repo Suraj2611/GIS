@@ -34,6 +34,7 @@ Contents
   resources
   recap
   datasources
+  exercises
 
    *
 
